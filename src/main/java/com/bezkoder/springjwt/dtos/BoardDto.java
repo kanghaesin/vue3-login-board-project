@@ -19,5 +19,4 @@ public class BoardDto implements Serializable {
     private String contents;
     private String author;
     private String createdAt;
-
 }

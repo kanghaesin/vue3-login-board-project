@@ -12,4 +12,6 @@ import lombok.NoArgsConstructor;
 public class SearchCondition {
     private String sk;  //search key
     private String sv;  //search value
+
+    private long id;  //search value
 }
